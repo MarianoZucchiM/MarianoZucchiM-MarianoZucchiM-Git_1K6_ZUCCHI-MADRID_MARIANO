@@ -1,0 +1,17 @@
+commit 0fff595dccd3347095705beac7de1ea43e3dfd45
+Author: Mariano Zucchi <marzucchimad01@gmail.com>
+Date:   Sun Jul 31 22:46:02 2022 -0300
+
+    Ejercicio 3
+
+commit 0e414613c0d64a423d7f06e0bab9c70c351a29d5
+Author: Mariano Zucchi <marzucchimad01@gmail.com>
+Date:   Sun Jul 31 22:44:12 2022 -0300
+
+    Ejercicio 2
+
+commit 980d824467271d54a68c8a85ae3578d4969c27ab
+Author: Mariano Zucchi <marzucchimad01@gmail.com>
+Date:   Sun Jul 31 22:42:33 2022 -0300
+
+    Ejercicio 1
